@@ -1,17 +1,5 @@
 // ================================================================
 // PRÁCTICA N.° 3 — TABLAS HASH CON DATOS SINTÉTICOS DE E-COMMERCE
-// Curso: Estructuras de Datos | Código: SIS319 | Semanas 5-6
-// Universidad Nacional del Altiplano
-// Mg. Aldo Hernán Zanabria Gálvez
-//
-// Métodos implementados:
-//   1. Encadenamiento Separado
-//   2. Sondeo Lineal
-//   3. Doble Hashing
-//
-// Datos: sintéticos formato "user_XXXXX" (e-commerce)
-// Compilar: g++ -O2 -std=c++17 -o hash_tabla hash_tabla.cpp
-// Ejecutar:  ./hash_tabla
 // ================================================================
 
 #include <iostream>
